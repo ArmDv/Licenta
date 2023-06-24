@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301222618406",
+    "project_id": "tdm-burgers-2496c",
+    "storage_bucket": "tdm-burgers-2496c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301222618406:android:3cddbcf6bfd021f27dcde7",
+        "android_client_info": {
+          "package_name": "com.licentav8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301222618406-oager0fl3vfiidsj26lp9onpf5oebhd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.licentav8",
+            "certificate_hash": "25c6944bbaff652f8c207d252d09bc829086b547"
+          }
+        },
+        {
+          "client_id": "301222618406-snddt00emq8n3o2ngtqr5495idem3h1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.licentav8",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "301222618406-ai27ij70juip2ihiutf7vgevt19g3n0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVs7Dl3AZpzgBslH7qPghJFXFAgeehAA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301222618406-ai27ij70juip2ihiutf7vgevt19g3n0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "s32dc79505",
+  "policyUUID": "2dc79505",
+  "bucketName": "licentav89345608e680f4769b3380e11a3888412",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

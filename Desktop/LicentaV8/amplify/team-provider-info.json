@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-licentav8-dev-232523-authRole",
+      "UnauthRoleArn": "arn:aws:iam::528337869075:role/amplify-licentav8-dev-232523-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::528337869075:role/amplify-licentav8-dev-232523-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-licentav8-dev-232523-deployment",
+      "UnauthRoleName": "amplify-licentav8-dev-232523-unauthRole",
+      "StackName": "amplify-licentav8-dev-232523",
+      "StackId": "arn:aws:cloudformation:eu-west-3:528337869075:stack/amplify-licentav8-dev-232523/43083ae0-095f-11ee-94e0-0a2f2335193c",
+      "AmplifyAppId": "dd3u279ihal1"
+    },
+    "categories": {
+      "auth": {
+        "LicentaV8": {}
+      },
+      "api": {
+        "LicentaV8": {}
+      },
+      "storage": {
+        "s32dc79505": {}
+      }
+    }
+  }
+}

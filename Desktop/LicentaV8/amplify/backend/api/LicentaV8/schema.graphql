@@ -1,0 +1,32 @@
+type BeefOffersData @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  BeefBurgerName: String
+  AverageReviewBeef: String
+  NumberOfReviewsBeef: String
+}
+
+type OffersData @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  BurgerName: String
+  AverageReview: String
+  NumberOfReviews: String
+}
+
+type FilterData @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Nume: String
+}
+
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Nume: String!
+  Prenume: String!
+  NrTel: String
+  Sex: Sex
+  sub: String
+}
+
+enum Sex {
+  MALE
+  FEMALE
+}
